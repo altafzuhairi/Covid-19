@@ -4,7 +4,7 @@ The aim of this project is to create a deep learning model using LSTM neural net
 # 2. IDE and Framework
 This project is completed mainly using VS Code IDE. The main frameworks used in this project are Numpy, Matplotlib,scikit-learn and TensorFlow Keras.
 # 3. Methodology
-The methodology for this project is inspired from official TensorFlow website which can be refer here:https://www.tensorflow.org/tfx/tutorials/transform/census
+The methodology for this project is inspired from official TensorFlow website which can be refer here: https://www.tensorflow.org/tfx/tutorials/transform/census
 
 3.1 Model Pipeline
 
