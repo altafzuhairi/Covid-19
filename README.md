@@ -1,4 +1,4 @@
-# Covid-19
+# Malaysia Covid-19 New Cases Prediction Using LSTM Neural Network
 # 1. Summary 
 The aim of this project is to create a deep learning model using LSTM neural network to predict new cases in Malaysia using the past 30 days of number of cases. Deep learning model is trained and deployed for this task. The dataset is acquired from https://github.com/MoH-Malaysia/covid19-public
 # 2. IDE and Framework
